@@ -7,4 +7,12 @@
 
 a) **Installing Anaconda on windows**
 <br>
-[Anaconda Window Installation guide](https://docs.anaconda.com/anaconda/install/windows/)
+1. [Anaconda Window Installation guide](https://docs.anaconda.com/anaconda/install/windows/)
+2. Add the following anaconda path to Enviroment variables
+```
+1. C:\Users\xxx\anaconda3
+2. C:\Users\xxx\anaconda3\Scripts
+3. C:\Users\xxx\anaconda3\condabin
+4. C:\Users\xxx\anaconda3\Library\bin
+```
+<strong> Replace xxx with user name </strong>
