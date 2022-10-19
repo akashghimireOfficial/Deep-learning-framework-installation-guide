@@ -46,9 +46,20 @@ pip install numpy
 pip install matplotlib
 pip install pandas
 pip install scikit-learn
-pip install tensorflow 
-
-
-
+pip install tensorflow  ## installing tensorflow
+pip3 install torch torchvision torchaudio ## installing pytorch
 
 ```
+
+
+### 5. Using jupyter-notebook
+
+1. Activate the virtual enviroment as mentioned above.
+2. use the command to open jupyter notebook
+>jupyter-notebook
+>**Note**: You must install all the required packages for a deep learning program to run.
+
+### 6. Handling Error
+
+1. Error from missing packages
+> if you find some package is missing, then install using **pip** command as mentioned above.
