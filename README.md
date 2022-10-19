@@ -57,6 +57,7 @@ pip3 install torch torchvision torchaudio ## installing pytorch
 1. Activate the virtual enviroment as mentioned above.
 2. use the command to open jupyter notebook
 >jupyter-notebook
+<br>
 >**Note**: You must install all the required packages for a deep learning program to run.
 
 ### 6. Handling Error
