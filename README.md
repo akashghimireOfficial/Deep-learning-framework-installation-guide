@@ -6,6 +6,5 @@
 
 
 a) **Installing Anaconda on windows**
-1. [Download the Anaconda installer.](https://www.anaconda.com/)
-
-
+<br>
+[Anaconda Window Installation guide](https://docs.anaconda.com/anaconda/install/windows/)
