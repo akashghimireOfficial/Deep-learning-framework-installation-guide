@@ -47,7 +47,7 @@ pip install matplotlib
 pip install pandas
 pip install scikit-learn
 pip install tensorflow  ## installing tensorflow
-pip3 install torch torchvision torchaudio ## installing pytorch
+pip install torch torchvision torchaudio ## installing pytorch
 
 ```
 
