@@ -39,8 +39,8 @@ c. When conda asks you to proceed, type y:
 
 > This guide is for installation of deep learning framework with our cuda installation.
 
-a. Activate virtual enviroment as instructed above. 
-b. install packages in virtual enviroment using **pip** command
+a) Activate virtual enviroment as instructed above. <br>
+b) install packages in virtual enviroment using **pip** command
 ```
 pip install numpy
 pip install matplotlib
